@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 A skilled software engineer with over five years of experience building efficient cross-platform applications, with expertise in **C++, Qt and QML** and passionate about designing clean, maintainable solutions for complex software problems. I'm dedicated to continuous growth and always eager to learn new technologies and tackle new challenges to keep growing. I love collaborating with others to share what I learn along the way and pick up new ideas and insights.🔧💻
 
 - 💻 I'm currently working on **TFMToolPro** Desktop application
-- 📖 I'm currently reading [Effective Modern C++](https://www.google.com/books/edition/Effective_Modern_C++/rjhIBQAAQBAJ?hl=en&gbpv=0)
+- 📖 I'm currently reading [Mastering the C++17 STL](https://www.packtpub.com/en-us/product/mastering-the-c17-stl-9781787126824) 
 
 ### Tech Stack:
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge) ![QML](https://img.shields.io/badge/QML-108f01.svg?logo=qt&logoColor=white&style=for-the-badge) ![JS](https://img.shields.io/badge/Js-3776AB?logo=javascript&logoColor=fff&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
